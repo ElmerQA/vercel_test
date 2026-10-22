@@ -1,6 +1,105 @@
 {
   "players": [
-    {"name":"Ash Ketchum","country":"Japan","teams":[{"name":"Main Team","pokemon":["pikachu","charizard","greninja","lucario","garchomp","snorlax"]}]},
-    {"name":"Misty Waterflower","country":"Philippines","teams":[{"name":"Water Squad","pokemon":["starmie","gyarados","vaporeon","lapras","milotic","kingdra"]}]}
+    {
+      "name": "Ash Ketchum",
+      "country": "Japan",
+      "teams": [
+        {
+          "name": "Main Team",
+          "pokemon": [
+            "pikachu",
+            "charizard",
+            "greninja",
+            "lucario",
+            "garchomp",
+            "snorlax"
+          ]
+        },
+        {
+          "name": "Main Team",
+          "pokemon": [
+            "pikachu",
+            "charizard",
+            "greninja",
+            "lucario",
+            "garchomp",
+            "snorlax"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Misty Waterflower",
+      "country": "Philippines",
+      "teams": [
+        {
+          "name": "Water Squad",
+          "pokemon": [
+            "starmie",
+            "gyarados",
+            "vaporeon",
+            "lapras",
+            "milotic",
+            "kingdra"
+          ]
+        },
+        {
+          "name": "Water Squad",
+          "pokemon": [
+            "starmie",
+            "gyarados",
+            "vaporeon",
+            "lapras",
+            "milotic",
+            "kingdra"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brock Harrison",
+      "country": "Philippines",
+      "teams": [
+        {
+          "name": "Rock Solid",
+          "pokemon": [
+            "onix",
+            "steelix",
+            "golem",
+            "rhyperior",
+            "tyranitar",
+            "gigalith"
+          ]
+        },
+        {
+          "name": "Backup",
+          "pokemon": [
+            "forretress",
+            "excadrill",
+            "probopass",
+            "crustle",
+            "aggron",
+            "bastiodon"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gary Oak",
+      "country": "USA",
+      "teams": [
+        {
+          "name": "Rival Team",
+          "pokemon": [
+            "blastoise",
+            "arcanine",
+            "alakazam",
+            "umbreon",
+            "scizor",
+            "electivire"
+          ]
+        }
+      ]
+    }
   ]
 }
