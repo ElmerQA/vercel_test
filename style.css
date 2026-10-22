@@ -17,9 +17,17 @@ button:disabled{opacity:.4;cursor:not-allowed}
 .team{padding:14px 18px;border-bottom:1px solid var(--line)}
 .team:last-child{border:0}
 .team h3{margin:0 0 6px;font-size:.95rem;color:var(--mute);font-weight:600}
-.mons{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px}
-.mon{text-align:center;font-size:.85rem;text-transform:capitalize}
+.mons{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.mon{display:flex;flex-direction:column;align-items:center;text-align:center;font-size:.85rem;gap:2px;border:1px solid var(--line);border-radius:10px;padding:10px}.moves{color:var(--mute);font-size:.8rem}
 .mon img{width:96px;height:96px;image-rendering:pixelated;object-fit:contain}
 .muted{color:var(--mute)}
 .err{color:var(--red);font-weight:600}
 code{background:var(--line);padding:2px 6px;border-radius:5px}
+
+.reveal{display:flex;align-items:center;gap:16px;width:100%;background:none;color:var(--ink);text-align:left;padding:14px 18px;border-radius:0}
+.reveal:hover{background:var(--bg)}
+.sil{color:var(--ink);opacity:.85;display:flex}
+.pname{flex:1;font-size:1.1rem;font-weight:700}
+.pname small{color:var(--mute);font-weight:400;margin-left:8px}
+.hint{color:var(--blue);font-weight:600;font-size:.9rem}
+.teams{border-top:1px solid var(--line)}

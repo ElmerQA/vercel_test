@@ -1,0 +1,92 @@
+{
+ "players": [
+  {
+   "name": "Rod",
+   "teams": [
+    {
+     "id": "K4JMDSJ4TG",
+     "pokemon": [
+      {
+       "slot": 1,
+       "name": "Charizard",
+       "types": "Fire / Flying",
+       "ability": "Blaze",
+       "item": "Charizardite X",
+       "moves": [
+        "Flare Blitz",
+        "Dragon Claw",
+        "Protect",
+        "Dragon Dance"
+       ]
+      },
+      {
+       "slot": 2,
+       "name": "Kingambit",
+       "types": "Dark / Steel",
+       "ability": "Defiant",
+       "item": "Chople Berry",
+       "moves": [
+        "Kowtow Cleave",
+        "Iron Head",
+        "Sucker Punch",
+        "Protect"
+       ]
+      },
+      {
+       "slot": 3,
+       "name": "Rotom (Wash)",
+       "types": "Electric / Water",
+       "ability": "Levitate",
+       "item": "Sitrus Berry",
+       "moves": [
+        "Hydro Pump",
+        "Thunderbolt",
+        "Will-O-Wisp",
+        "Volt Switch"
+       ]
+      },
+      {
+       "slot": 4,
+       "name": "Sinistcha",
+       "types": "Grass / Ghost",
+       "ability": "Hospitality",
+       "item": "Kasib Berry",
+       "moves": [
+        "Matcha Gotcha",
+        "Rage Powder",
+        "Life Dew",
+        "Trick Room"
+       ]
+      },
+      {
+       "slot": 5,
+       "name": "Sneasler",
+       "types": "Fighting / Poison",
+       "ability": "Unburden",
+       "item": "White Herb",
+       "moves": [
+        "Dire Claw",
+        "Close Combat",
+        "Protect",
+        "Fake Out"
+       ]
+      },
+      {
+       "slot": 6,
+       "name": "Ninetales (Alola)",
+       "types": "Ice / Fairy",
+       "ability": "Snow Warning",
+       "item": "Focus Sash",
+       "moves": [
+        "Freeze-Dry",
+        "Blizzard",
+        "Protect",
+        "Aurora Veil"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

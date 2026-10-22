@@ -3,7 +3,7 @@ Static site (HTML + JS). Upload the whole folder to GitHub Pages, Netlify, Cloud
 
 ## Add players
 1. Open `admin.html` on your live site (or locally).
-2. Choose a CSV (see `sample/players.csv`). Check the preview, click "Download players.json".
+2. Choose a CSV (use `sample/players.csv` as the template: one row per Pokémon). Check the preview, click "Download players.json".
 3. Replace `data/players.json` on your host with the downloaded file. Done.
 
 ## Run locally
