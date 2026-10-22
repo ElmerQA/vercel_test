@@ -1,0 +1,6 @@
+{
+  "players": [
+    {"name":"Ash Ketchum","country":"Japan","teams":[{"name":"Main Team","pokemon":["pikachu","charizard","greninja","lucario","garchomp","snorlax"]}]},
+    {"name":"Misty Waterflower","country":"Philippines","teams":[{"name":"Water Squad","pokemon":["starmie","gyarados","vaporeon","lapras","milotic","kingdra"]}]}
+  ]
+}
